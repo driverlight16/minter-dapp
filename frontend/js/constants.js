@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x62F9d01f980F992DF5e5F6D1F9db37EF40ebD9D7"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the Panda Universe NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Panda Universe is a community driven collection of 3333 unique and randomly generated NFTs on the Polygon Blockchain. Our goal is to create a global, inclusive group of pandas that brings together a diverse Metaverse. We are committed to creating an environment that welcomes all communities into the Metaverse accelerating what is already inevitable.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
