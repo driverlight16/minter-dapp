@@ -1,4 +1,4 @@
-const contractAddress = "0x62F9d01f980F992DF5e5F6D1F9db37EF40ebD9D7"; //Replace with your own contract address
+const contractAddress = "0xc2fEF359a539B88965A19F41aAC76A24208f0865"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Panda Universe NFT Project!!";
